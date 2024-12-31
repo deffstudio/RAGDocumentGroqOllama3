@@ -4,3 +4,6 @@ langchain-community
 langchain-core
 streamlit
 python-dotenv
+langchain-openai
+pypdf
+faiss-cpu
